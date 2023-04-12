@@ -1,0 +1,15 @@
+[submodule "bundle"]
+	path = bundle
+	url = https://github.com/jaytlang/bundle
+[submodule "bundled"]
+	path = bundled
+	url = https://github.com/jaytlang/bundled
+[submodule "worker"]
+	path = worker
+	url = https://github.com/jaytlang/worker
+[submodule "workerd"]
+	path = workerd
+	url = https://github.com/jaytlang/workerd
+[submodule "remote"]
+	path = remote
+	url = https://github.com/jaytlang/remote
